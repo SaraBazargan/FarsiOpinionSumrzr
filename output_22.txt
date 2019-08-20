@@ -1,0 +1,28 @@
+Python 3.3.1 (v3.3.1:d9893d13c628, Apr  6 2013, 20:25:12) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+number of graph nodes:  552
+number of start nodes:  26
+threshold of PID to determine a VSN: 7
+threshold of gap in discovering redundancies: 2
+function to compute scores: Swt-len(W)
+
+select up to  11 sentences for your summary.
+enter the threshold for summary size: 11
+
+
+********** SUMMARY ***********
+
+there is no mini and a grocery store close by that you can pick up food and nothing fantastic about the food and 24 hour room service and a nice bistro around the corner with very good food that is moderately priced 
+there are a couple pubs and plenty of restaurants in the area as well and a variety of priced places to eat in the immediate area 
+there was a massive queue for the restaurant and an adequate self service buffet 
+breakfast was included in our rate and fantastic with a very good selection of food and ok 
+an upscale residential area full of restaurants in easy walking distance ranging from fast food to up , 
+rooms have never disappointed and mini 
+ca n't see what sets it apart from other 3 , 
+breakfast brought to our rate and 
+breakfast buffet full english breakfast , 
+evening once at the garfunkels pub in the mall , 
+breakfast equally tired , 
+>>> 

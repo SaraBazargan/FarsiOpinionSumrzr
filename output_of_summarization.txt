@@ -1,0 +1,21 @@
+Python 3.3.1 (v3.3.1:d9893d13c628, Apr  6 2013, 20:25:12) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+number of graph nodes:  477
+number of start nodes:  24
+threshold of PID to determine a VSN: 7
+threshold of gap in discovering redundancies: 2
+function to compute scores: Swt-len(W)
+
+select up to  9 sentences for your summary.
+enter the threshold for summary size: 4
+
+
+********** SUMMARY ***********
+
+rooms are exceptionally clean and abit smallish 
+bed was clean and comfortable and comfortable and quite nicely appointed 
+rooms were nice and clean and very nice 
+nice large bathroom . 
+>>> 
